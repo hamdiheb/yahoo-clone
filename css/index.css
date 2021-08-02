@@ -25,3 +25,25 @@
 .header-icon {
   margin-right: 25px;
 }
+
+.header-top-options {
+  display: flex;
+  list-style: none;
+}
+
+.header-top-item {
+  margin-right: 40px;
+}
+
+.header-top-item a {
+  font-weight: bolder;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+}
+
+.header-top-item a:hover {
+  color: black;
+  padding-bottom: 4px;
+  border-bottom: 3px solid purple;
+}
