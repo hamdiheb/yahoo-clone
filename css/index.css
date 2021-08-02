@@ -47,3 +47,27 @@
   padding-bottom: 4px;
   border-bottom: 3px solid purple;
 }
+
+.covid-banner{
+  float: left;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+}
+
+.covid-banner img {
+  width: 150px;
+  height: 68px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.covid-pub {
+  width: 96%;
+  height: 68px;
+  background-color: red;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
